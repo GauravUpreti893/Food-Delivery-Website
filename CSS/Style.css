@@ -4,10 +4,13 @@
     padding:0;
 }
 
-/* Variables */
-:root{
-    --logo-height:60px;
+html{
+    scroll-behavior: smooth;
 }
+/* Variables */
+/* :root{
+    --logo-height:60px;
+} */
 
 /* Navbar */
 
