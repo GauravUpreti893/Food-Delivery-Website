@@ -15,6 +15,7 @@
 #navbar label img{
     top:1.16rem;
     right:1rem;
+    height: 2.152rem;
 }
 #navbar ul{
     justify-content: space-evenly;
@@ -26,6 +27,7 @@
     font-size: 1rem;
     padding:0 0.1rem;
     margin:0;
+    padding-bottom:12px;
 }
 #navbar::before{
     /* width:100%; */
@@ -42,7 +44,7 @@
     /* width:100%; */
     padding:3px 10px;
     margin-bottom:45px;
-    height:29.67rem;
+    height:25.67rem;
 }
 #home::before{
     /* height:86%; */
@@ -63,8 +65,7 @@
 
 /* Services */
 
-#service-container{
-}
+
 #service{
     /* position:relative; */
     flex-direction: column;
