@@ -1,0 +1,7 @@
+#navbar #logo img{
+    position: relative;
+    right:145%;
+}
+#logo img{
+    transform: translateX(-5px);
+}
